@@ -9,6 +9,19 @@ I'm software engineer and experienced full-stack web development using the MERN 
 
 ---
 
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,docker,vercel" />
+</p>
+
+- **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS, Shadcn UI, Material UI 
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB (Mongoose), SQL, Supabase 
+- **Dev Tools**: Git, Docker, Postman, Vercel, VS Code, Cursor  
+
+---
+
 ## 💼 Projects I've Worked On
 
 - 🔑 **Real Estate Website**  
@@ -22,19 +35,6 @@ I'm software engineer and experienced full-stack web development using the MERN 
 
 - 🏫 **Management Systems**  
   Created web-based systems for HR, schools, and inventory, handling CRUD, authentication, and role-based access.
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,docker,vercel" />
-</p>
-
-- **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS, Shadcn UI, Material UI 
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB (Mongoose), SQL, Supabase 
-- **Dev Tools**: Git, Docker, Postman, Vercel, VS Code, Cursor  
 
 ---
 
