@@ -1,26 +1,18 @@
 <h1 align="center">Hi 👋, I'm Asim Shakoor</h1>
-<h3 align="center">MERN Stack Developer | Building Scalable Web Solutions</h3>
+<h3 align="center">Full Stack Developer | Building Scalable Web Solutions</h3>
 
 ---
 
 ## 👨‍💼 About Me
 
-I'm a passionate software engineer specializing in full-stack web development using the MERN stack. I enjoy building intuitive user interfaces, robust backend systems, and real-world applications that solve real problems. I'm focused on writing clean, scalable code and constantly learning new technologies.
-
----
-
-## 🎓 Education
-
-- **B.S. in Computer Science**  
-  [Your University Name]  
-  *Expected Graduation: [Year]*
+I'm software engineer and experienced full-stack web development using the MERN stack. I enjoy building intuitive user interfaces, robust backend systems, and real-world applications that solve real problems. I'm focused on writing clean, scalable code and constantly learning new technologies.
 
 ---
 
 ## 💼 Projects I've Worked On
 
 - 🔑 **Real Estate Website**  
-  A responsive property listing platform with admin dashboard, property filters, and user authentication.
+  A responsive property listing platform with admin dashboard and buyer dashboards.
 
 - 📊 **Lead Generation Dashboard**  
   Admin panel to track, manage, and visualize sales leads, including location-based visitor stats.
@@ -39,18 +31,24 @@ I'm a passionate software engineer specializing in full-stack web development us
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,docker,vercel" />
 </p>
 
-- **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS  
+- **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS, Shadcn UI, Material UI 
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB (Mongoose)  
-- **Dev Tools**: Git, Docker, Postman, Vercel, VS Code  
+- **Database**: MongoDB (Mongoose), SQL, Supabase 
+- **Dev Tools**: Git, Docker, Postman, Vercel, VS Code, Cursor  
+
+---
+
+## 🌐 Portfolio
+
+🔗 [Visit My Portfolio](https://asimshakoor11.github.io/asim_portfolio.com/)
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: [asimshakoor.dev@gmail.com](mailto:asimshakoor.dev@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/asimshakoor](https://linkedin.com/in/asimshakoor)  
-- 💻 GitHub: [github.com/asimshakoor](https://github.com/asimshakoor)
+- 📧 Email: [asimshakoor920830@gmail.com](mailto:asimshakoor920830@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/asimshakoor](https://www.linkedin.com/in/asim-shakoor-99b52725a/)  
+- 💻 GitHub: [github.com/asimshakoor](https://github.com/asimshakoor11)
 
 ---
 
