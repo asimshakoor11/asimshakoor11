@@ -31,7 +31,7 @@ I'm software engineer and experienced full-stack web development, I currently se
 - 📊 **Lead Generation Dashboard**
 - Developed buyer, admin, and lead-generation dashboards to manage properties, track inquiries, and visualize sales leads with location-based visitor stats.
 
-- 🛒 **E-commerce Websites** 🔗 [Kitchen Mate](https://kitchen-mate-front-end.vercel.app/) | 🔗 [Underose](https://www.underose.com/) |
+- 🛒 **E-commerce Websites** 🔗 [Kitchen Mate](https://kitchen-mate-front-end.vercel.app/) | 🔗 [Underose](#) |
 - Developed full-featured **e-commerce stores with responsive UIs, secure authentication, and comprehensive admin dashboards for product, order, and customer management**. The platforms included complete e-commerce functionalities such as **product catalogs, shopping carts, checkout and payment integrations, order tracking, returns, user profiles, and product reviews**, ensuring a seamless shopping experience and efficient backend management.
 
 - 🏫 **Management Systems** 🔗 [Shaheen School Management System](https://shaheen-sms-front-end.vercel.app/) | 🔗 [MK Car Stock Management](https://mk-stock-mang-fe.vercel.app/)
