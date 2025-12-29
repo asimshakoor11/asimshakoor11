@@ -43,16 +43,6 @@ I'm software engineer and experienced full-stack web development, I currently se
 
 🔗 [Visit My Portfolio](https://asimshakoordev.vercel.app/)
 
----
-
-## 📬 Contact Me
-
-- 📧 Email: [asimshakoor.dev@gmail.com](mailto:asimshakoor.dev@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/asimshakoor](https://www.linkedin.com/in/asim-shakoor-99b52725a/)  
-- 💻 GitHub: [github.com/asimshakoor](https://github.com/asimshakoor11)
-
----
-
 <p align="center">
   🚀 *Turning ideas into reality, one line of code at a time.*
 </p>
