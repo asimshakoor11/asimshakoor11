@@ -39,10 +39,6 @@ I'm software engineer and experienced full-stack web development, I currently se
 
 ---
 
-## 🌐 Portfolio
-
-🔗 [Visit My Portfolio](https://asimshakoordev.vercel.app/)
-
 <p align="center">
   🚀 *Turning ideas into reality, one line of code at a time.*
 </p>
