@@ -25,16 +25,16 @@ I'm software engineer and experienced full-stack web development, I currently se
 
 ## 💼 Projects I've Worked On
 
-- 🔑 **Real Estate Website**  🔗 [Buy Properties](https://buy-developments.vercel.app/) | 🔗 [Henderson Realty](https://henderson-reality-one.vercel.app/) | 🔗 [Developments.pt](https://developments-pt.vercel.app/)
+- 🔑 **Real Estate Website**  
 - Developed responsive **real estate websites for a Portugal-based client**, featuring property listing pages, advanced search and filtering, interactive Mapbox maps, multi-step forms,       mortgage/IMI/IMT calculators, automatic PDF generation, and dynamic modules (blogs, services, news)..
 
 - 📊 **Lead Generation Dashboard**
 - Developed buyer, admin, and lead-generation dashboards to manage properties, track inquiries, and visualize sales leads with location-based visitor stats.
 
-- 🛒 **E-commerce Websites** 🔗 [Kitchen Mate](https://kitchen-mate-front-end.vercel.app/) | 🔗 [Underose](#) |
+- 🛒 **E-commerce Websites** 
 - Developed full-featured **e-commerce stores with responsive UIs, secure authentication, and comprehensive admin dashboards for product, order, and customer management**. The platforms included complete e-commerce functionalities such as **product catalogs, shopping carts, checkout and payment integrations, order tracking, returns, user profiles, and product reviews**, ensuring a seamless shopping experience and efficient backend management.
 
-- 🏫 **Management Systems** 🔗 [Shaheen School Management System](https://shaheen-sms-front-end.vercel.app/) | 🔗 [MK Car Stock Management](https://mk-stock-mang-fe.vercel.app/)
+- 🏫 **Management Systems**
 - Developed robust **web-based management systems with secure authentication, CRUD operations, and role-based dashboards.** Projects included a school management system with student/teacher/class registration, **fee challan generation, attendance tracking, marks management** with **lock/unlock controls, and automated result sheets**; a car stock management system with **customer and inventory tracking plus an intelligent car–customer matching feature**.
 
 ---
