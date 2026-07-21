@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Asim Shakoor</h1>
-<h3 align="center">Full Stack Web Developer | Building Scalable Web Solutions</h3>
+<h1 align="center">Hi, I'm Asim Shakoor 👋</h1>
 
----
+<h3 align="center">Software Engineer · Full-Stack Developer · AI Automation Expert</h3>
 
-## 👨‍💼 About Me
+<p align="center">
+  Helping businesses scale with intelligent, revenue-driven solutions — from startups to established companies.
+</p>
 
-I'm software engineer and experienced full-stack web development, I currently serve as an **Associate Software Engineer at Xcel Tech**. With over **2 years of experience in the MERN stack**, I specialize in developing **scalable web applications, designing intuitive user interfaces, and building efficient back-end systems**. Proficient in frontend and backend technologies, I play a key role in developing and delivering solutions that enhance user experiences and optimize business operations. I am also **Keen on exploring new opportunities**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;AI+Chatbot+%26+Workflow+Automation+Expert;MERN+%7C+Next.js+%7C+React.js;Building+Systems+That+Scale+Businesses;100%2B+Projects+Delivered+on+Fiverr;&font=Fira%20Code&center=true&width=600&height=45&duration=3000&pause=800&color=2EA3F7&vCenter=true" />
+</p>
 
 ---
 
@@ -23,22 +26,47 @@ I'm software engineer and experienced full-stack web development, I currently se
 
 ---
 
-## 💼 Projects I've Worked On
+### 🚀 How I Drive Business Growth
 
-- 🔑 **Real Estate Website**  
-- Developed responsive **real estate websites for a Portugal-based client**, featuring property listing pages, advanced search and filtering, interactive Mapbox maps, multi-step forms,       mortgage/IMI/IMT calculators, automatic PDF generation, and dynamic modules (blogs, services, news)..
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 📊 **Lead Generation Dashboard**
-- Developed buyer, admin, and lead-generation dashboards to manage properties, track inquiries, and visualize sales leads with location-based visitor stats.
+**🌐 Full-Stack Web Development**
+Building scalable, responsive, and SEO-friendly applications using the MERN stack, Next.js, and React.js.
 
-- 🛒 **E-commerce Websites** 
-- Developed full-featured **e-commerce stores with responsive UIs, secure authentication, and comprehensive admin dashboards for product, order, and customer management**. The platforms included complete e-commerce functionalities such as **product catalogs, shopping carts, checkout and payment integrations, order tracking, returns, user profiles, and product reviews**, ensuring a seamless shopping experience and efficient backend management.
+**🛒 Management Systems & Dashboards**
+Custom admin dashboards and management platforms (HR, real estate, school, inventory) with role-based access, analytics.
+</td>
+<td width="50%" valign="top">
 
-- 🏫 **Management Systems**
-- Developed robust **web-based management systems with secure authentication, CRUD operations, and role-based dashboards.** Projects included a school management system with student/teacher/class registration, **fee challan generation, attendance tracking, marks management** with **lock/unlock controls, and automated result sheets**; a car stock management system with **customer and inventory tracking plus an intelligent car–customer matching feature**.
+**🤖 AI Chatbots & Workflow Automation**
+AI chatbots, n8n automations, and AI-powered workflows that cut manual work by up to 70% while improving satisfaction, lead generation, and sales.
+
+**💻 Custom Software Solutions**
+Tailored systems that streamline processes, eliminate inefficiencies, and save 20+ hours a week through smart automation and integrations.
+
+</td>
+</tr>
+</table>
 
 ---
 
+### 🧠 AI & Data-Driven Solutions
+
+- 🤖 Intelligent chatbots & RAG-based assistants
+- ⚙️ Workflow automation with n8n
+- 📊 Data extraction, analysis, and visualization
+- ✨ AI-powered features for web apps
+
+---
+
+### 🚀 Ready to Scale Your Business?
+
 <p align="center">
-  🚀 *Turning ideas into reality, one line of code at a time.*
+  💬 Let's connect and discuss how I can help build your next high-performing application or automate your workflows.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA3F7&height=100&section=footer" />
 </p>
